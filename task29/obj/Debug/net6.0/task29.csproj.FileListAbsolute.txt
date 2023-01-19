@@ -1,0 +1,16 @@
+C:\homework5\task29\obj\Debug\net6.0\task29.GlobalUsings.g.cs
+C:\homework5\task29\obj\Debug\net6.0\task29.csproj.AssemblyReference.cache
+C:\homework5\task29\obj\Debug\net6.0\task29.GeneratedMSBuildEditorConfig.editorconfig
+C:\homework5\task29\obj\Debug\net6.0\task29.AssemblyInfoInputs.cache
+C:\homework5\task29\obj\Debug\net6.0\task29.AssemblyInfo.cs
+C:\homework5\task29\obj\Debug\net6.0\task29.csproj.CoreCompileInputs.cache
+C:\homework5\task29\bin\Debug\net6.0\task29.exe
+C:\homework5\task29\bin\Debug\net6.0\task29.deps.json
+C:\homework5\task29\bin\Debug\net6.0\task29.runtimeconfig.json
+C:\homework5\task29\bin\Debug\net6.0\task29.dll
+C:\homework5\task29\bin\Debug\net6.0\ref\task29.dll
+C:\homework5\task29\bin\Debug\net6.0\task29.pdb
+C:\homework5\task29\obj\Debug\net6.0\task29.dll
+C:\homework5\task29\obj\Debug\net6.0\ref\task29.dll
+C:\homework5\task29\obj\Debug\net6.0\task29.pdb
+C:\homework5\task29\obj\Debug\net6.0\task29.genruntimeconfig.cache
